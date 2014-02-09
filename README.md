@@ -32,3 +32,17 @@ Ahora que estamos en el directorio donde has guardado la práctica, puedes invoc
     ipython notebook --pylab inline
 
 Y listo, con esto estarás programando mas rápido de lo que crees.
+
+# Problemas de compatibilidad con las versiones del software
+
+Puede que justo despues de la instalación no tengas la ultima versión de IPython, o alguno de los paquetes necesarios, pero esto se resuelve facilmente.
+
+1. Abre la terminal en Mac o Linux o Simbolo de sistema en Windows (recuerda, tecla de Windows, escribe cmd, Enter).
+2. Escribe el comando '''conda update conda''' y presiona Enter.
+3. Da un Enter adicional cuando te pregunte si quieres actualizar los paquetes necesarios.
+4. Escribe el comando '''conda update ipython matplotlib numpy scipy sympy'''.
+5. Da un Enter adicional cuando te pregunte si quieres actualizar los paquetes necesarios.
+
+Con esto obtendrás las versiones mas actuales disponibles del software.
+
+Felices codigos!
