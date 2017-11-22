@@ -1,0 +1,99 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/roberto/clase-metodos-numericos
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=281e99fa76aaed4454aafd6a595a1ba3f82268770ed3e414
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=281e99fa76aaed4454aafd6a595a1ba3f82268770ed3e414
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171121200132 (::1) 22.95ms referer=http://localhost:8888/notebooks/Practicas/P7/Practica%207%20-%20Diferenciacion%20numerica.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 8.01ms referer=http://localhost:8888/notebooks/Practicas/P7/Practica%207%20-%20Diferenciacion%20numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Kernel restarted: 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
+[NotebookApp | INFO] Kernel restarted: 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 72ddd9ee-9dff-459e-abf9-e71a11e00642
+[NotebookApp | INFO] Saving file at /Practicas/P7/Practica 7 - Diferenciacion numerica.ipynb
